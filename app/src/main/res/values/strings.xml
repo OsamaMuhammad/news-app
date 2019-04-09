@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_news_source">News Source</string>
+    <string name="settings_news_source_key" translatable="false">sources</string>
+    <string name="settings_news_source_default" translatable="false">bbc</string>
+
+    
+    <string name="settings_news_source_label_bbc">BBC News</string>
+    <string name="settings_news_source_label_ary">ARY News</string>
+    <string name="settings_news_source_label_ign">IGN</string>
+    <string name="settings_news_source_label_bbc_sport">BBC Sport</string>
+    <string name="settings_news_source_label_espn_cric_info">ESPN Cric Info</string>
+    <string name="settings_news_source_label_business_insider">Business Insider</string>
+
+    <string name="settings_news_source_value_bbc">bbc</string>
+    <string name="settings_news_source_value_ary">ary</string>
+    <string name="settings_news_source_value_ign">ign</string>
+    <string name="settings_news_source_value_bbc_sport">bbc-sport</string>
+    <string name="settings_news_source_value_espn_cric_info">espn-cric-info</string>
+    <string name="settings_news_source_value_business_insider">business-insider</string>
+
+
+
+
+
+
+
+</resources>

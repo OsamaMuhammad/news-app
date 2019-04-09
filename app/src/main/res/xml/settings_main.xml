@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="@string/settings_news_source_key"
+        android:defaultValue="@string/settings_news_source_default"
+        android:title="@string/settings_news_source"
+        android:entries="@array/settings_source_labels"
+        android:entryValues="@array/settings_source_values"
+        />
+
+
+
+</PreferenceScreen>
